@@ -8,10 +8,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/calculateBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onClick"
+        android:onClick="Calculate"
         android:text="Рассчитать"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -75,13 +75,12 @@
                 android:textSize="22sp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/addressEditText"
                 android:layout_width="180dp"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:paddingLeft="5dp"
-                android:text="г. Астрахань"
                 android:textColor="#673AB7"
                 android:textSize="20sp"
                 tools:layout_editor_absoluteX="-79dp"
@@ -105,7 +104,7 @@
                 android:textSize="22sp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName3"
+                android:id="@+id/periodEditText"
                 style="@style/Widget.AppCompat.EditText"
                 android:layout_width="180dp"
                 android:layout_height="wrap_content"
@@ -134,11 +133,11 @@
                 android:textSize="22sp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName2"
+                android:id="@+id/livingSpaceEditText"
                 android:layout_width="180dp"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:inputType="date"
+                android:inputType="number"
                 android:paddingLeft="5dp"
                 android:textColor="#673AB7"
                 android:textSize="20sp"
@@ -153,7 +152,7 @@
             android:paddingBottom="5dp">
 
             <CheckBox
-                android:id="@+id/checkBox"
+                android:id="@+id/elevatorCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -162,7 +161,7 @@
                 android:textSize="22sp" />
 
             <CheckBox
-                android:id="@+id/checkBox1"
+                android:id="@+id/electricityCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -180,7 +179,7 @@
             android:paddingBottom="15dp">
 
             <CheckBox
-                android:id="@+id/checkBox2"
+                android:id="@+id/hotWaterCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -189,7 +188,7 @@
                 android:textSize="22sp" />
 
             <CheckBox
-                android:id="@+id/checkBox3"
+                android:id="@+id/coldWaterCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -206,7 +205,7 @@
             android:paddingBottom="5dp">
 
             <CheckBox
-                android:id="@+id/checkBox4"
+                android:id="@+id/heatingCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -215,7 +214,7 @@
                 android:textSize="22sp" />
 
             <CheckBox
-                android:id="@+id/checkBox5"
+                android:id="@+id/gasSupplyCheckBox"
                 style="@style/Widget.AppCompat.CompoundButton.CheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -246,6 +245,56 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:srcCompat="@android:drawable/ic_menu_close_clear_cancel"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Сохранить"
+                android:textAlignment="center"
+                android:textColor="@color/purple_500"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/saveButton"
+                android:onClick="saveText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@android:drawable/ic_menu_save"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Открыть"
+                android:textAlignment="center"
+                android:textColor="@color/purple_500"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/openButton"
+                android:onClick="openText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@android:drawable/ic_menu_upload"
                 tools:ignore="SpeakableTextPresentCheck" />
 
         </TableRow>
