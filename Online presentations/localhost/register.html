@@ -1,0 +1,64 @@
+<?php
+session_start();
+
+if (isset($_POST['submit'])) {
+	$username = $_POST['username'];
+	$email = $_POST['email'];
+	$password = $_POST['password'];
+	$password_confirm = $_POST['password_confirm'];
+	$captcha = $_POST['captcha'];
+	
+	if ($password != $password_confirm) {
+		$error = "Пароли не совпадают";
+	} else if ($captcha != $_SESSION['captcha']) {
+		$error = "Неверный код с картинки";
+	} else {
+		// сохранение данных в базе данных и отправка письма на указанный email
+		// ...
+		$message = "Вы успешно зарегистрированы";
+	}
+}
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Регистрация</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		/* стили для адаптивной верстки */
+		@media screen and (max-width: 600px) {
+			/* стили для мобильных устройств */
+		}
+		
+		@media screen and (min-width: 601px) {
+			/* стили для планшетов и десктопов */
+		}
+	</style>
+</head>
+<body>
+	<h2>Регистрация</h2>
+	<?php if (isset($error)): ?>
+	<p style="color: red;"><?php echo $error; ?></p>
+	<?php endif; ?>
+	<?php if (isset($message)): ?>
+	<p style="color: green;"><?php echo $message; ?></p>
+	<?php else: ?>
+	<form method="post" action="register.php">
+		<label for="username">Имя пользователя:</label><br>
+		<input type="text" id="username" name="username"><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="password">Пароль:</label><br>
+        <input type="password" id="password" name="password"><br><br>
+        <label for="password_confirm">Подтвердите пароль:</label><br>
+        <input type="password" id="password_confirm" name="password_confirm"><br><br>
+        <label for="captcha">Код с картинки:</label><br>
+        <input type="text" id="captcha" name="captcha">
+        <img src="captcha.php" alt="Капча"><br><br>
+        <input type="submit" name="submit" value="Зарегистрироваться">
+    </form>
+    <?php endif; ?>
+    

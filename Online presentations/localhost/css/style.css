@@ -1,0 +1,118 @@
+body {
+    background: linear-gradient(225deg, #22acc3 0%, #1ae16d 100%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.form {
+    margin: 50px auto;
+    width: 810px;
+    padding: 30px 30px;
+    background: white;
+}
+.login-form {
+    margin: 50px auto;
+    width: 300px;
+    padding: 30px 25px;
+    background: white;
+}
+h2.login-title {
+    color: #666;
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+.input-field {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+    max-width: calc(100% - 23px);
+}
+.input-field:focus {
+    border-color:#6e8095;
+    outline: none;
+}
+.login-button {
+    color: #fff;
+    background: #55a1ff;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.logout-button {
+    color: #fff;
+    background: #f14545;
+    padding: 10px;
+    border: 0;
+    outline: 0;
+    height: 35px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.button {
+    color: #fff;
+    background: #1ae16d;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    outline: 0;
+    height: 35px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.link {
+    color: #1ae16d;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.link a {
+    color: #1ae16d;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
+h1 {
+    color: #ffffff;
+    margin: 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 280px 280px 280px;
+    margin-top: 30px;    
+  }
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 2px 4px 8px 2px rgba(0,0,0,0.2);
+    transition: 0.3s;    
+    width: 250px;    
+    margin-bottom: 30px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 4px 8px 16px 4px rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
