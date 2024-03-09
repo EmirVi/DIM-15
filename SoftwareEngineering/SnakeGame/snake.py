@@ -31,12 +31,13 @@ def our_snake(snake_block, snake_list):
 
 # Функция отрисовки счета
 def Your_score(score):
-    value = font_style.render("Ваш счет: " + str(score), True, blue)
+    value = font_style.render("Ваш счет: " + str(score), True, red)
     dis.blit(value, [0, 0])
 
 # Основная функция игры
 def gameLoop():
     game_over = False
+    game_close = False
 
     x1 = dis_width / 2
     y1 = dis_height / 2
@@ -51,6 +52,19 @@ def gameLoop():
     foody = round(random.randrange(0, dis_height - snake_block) / 10.0) * 10.0
 
     while not game_over:
+
+        while game_close == True:
+            dis.fill(blue)
+            Your_score(length_of_snake - 1)
+            pygame.display.update()
+
+            for event in pygame.event.get():
+                if event.type == pygame.KEYDOWN:
+                    if event.key == pygame.K_q:
+                        game_over = True
+                        game_close = False
+                    if event.key == pygame.K_r:
+                        gameLoop()
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -69,6 +83,8 @@ def gameLoop():
                     y1_change = snake_block
                     x1_change = 0
 
+        if x1 >= dis_width or x1 < 0 or y1 >= dis_height or y1 < 0:
+            game_close = True
         x1 += x1_change
         y1 += y1_change
         dis.fill(blue)
@@ -80,6 +96,10 @@ def gameLoop():
         snake_list.append(snake_head)
         if len(snake_list) > length_of_snake:
             del snake_list[0]
+
+        for x in snake_list[:-1]:
+            if x == snake_head:
+                game_close = True
 
         our_snake(snake_block, snake_list)
 
