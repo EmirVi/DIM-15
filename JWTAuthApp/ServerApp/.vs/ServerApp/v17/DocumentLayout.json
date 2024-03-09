@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServerApp/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\extensions\\identityserverextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\extensions\\identityserverextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\entities\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\entities\\applicationuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|d:\\github\\dim-15\\jwtauthapp\\serverapp\\serverapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC3542E-A68F-4908-91B3-2D7621F95A13}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServerApp/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-06T19:11:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ServerApp\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\appsettings.json",
+              "RelativeToolTip": "ServerApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T21:40:40.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:07:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ServerApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:21:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "ServerApp\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:52:58.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Services\\TokenService.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Services\\TokenService.cs",
+              "RelativeToolTip": "ServerApp\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:54:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityServerExtension.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Extensions\\IdentityServerExtension.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Extensions\\IdentityServerExtension.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Extensions\\IdentityServerExtension.cs",
+              "RelativeToolTip": "ServerApp\\Extensions\\IdentityServerExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:57:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Utilities\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ServerApp\\Utilities\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:49:11.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ServerApp\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "ServerApp\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:28:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUserRole.cs",
+              "DocumentMoniker": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Entities\\ApplicationUserRole.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Entities\\ApplicationUserRole.cs",
+              "ToolTip": "D:\\GitHub\\DIM-15\\JWTAuthApp\\ServerApp\\ServerApp\\Entities\\ApplicationUserRole.cs",
+              "RelativeToolTip": "ServerApp\\Entities\\ApplicationUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:25:41.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

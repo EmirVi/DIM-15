@@ -1,0 +1,292 @@
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\appsettings.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\AutoMapper.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Azure.Core.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Humanizer.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.AssemblyReference.cache
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.ServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerApp.props
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerApp.props
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerApp.props
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\scopedcss\bundle\ServerApp.styles.css
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.Up2Date
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\GitHub\DIM-15\JWT Auth App\ServerApp\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\appsettings.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\AutoMapper.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Azure.Core.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Humanizer.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.AssemblyReference.cache
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.ServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerApp.props
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerApp.props
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerApp.props
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\scopedcss\bundle\ServerApp.styles.css
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.csproj.Up2Date
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\GitHub\DIM-15\JWTAuthApp\ServerApp\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
